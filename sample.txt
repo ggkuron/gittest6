@@ -2,6 +2,3 @@ a
 b
 
 roei
-e
-l
-g
